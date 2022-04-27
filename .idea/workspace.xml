@@ -32,9 +32,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreeIntegers">
+  <component name="RunManager" selected="Application.Distance">
     <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridglabz.logicalprograms.Array2D" />
+      <module name="FunctionalProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridglabz.logicalprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridglabz.logicalprograms.Distance" />
       <module name="FunctionalProgram" />
       <extension name="coverage">
         <pattern>
@@ -61,6 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Distance" />
         <item itemvalue="Application.ThreeIntegers" />
         <item itemvalue="Application.Array2D" />
       </list>
