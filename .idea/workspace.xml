@@ -32,7 +32,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Distance">
+  <component name="RunManager" selected="Application.Quadratic">
     <configuration name="Array2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridglabz.logicalprograms.Array2D" />
       <module name="FunctionalProgram" />
@@ -59,6 +59,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Quadratic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bridglabz.logicalprograms.Quadratic" />
+      <module name="FunctionalProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridglabz.logicalprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ThreeIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridglabz.logicalprograms.ThreeIntegers" />
       <module name="FunctionalProgram" />
@@ -74,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quadratic" />
         <item itemvalue="Application.Distance" />
         <item itemvalue="Application.ThreeIntegers" />
         <item itemvalue="Application.Array2D" />
